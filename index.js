@@ -21,7 +21,7 @@ plusElement.addEventListener("click",function(){
 })
 
 minusElement.addEventListener("click", function(e) {
-    const count= numberElement.innerHTML--;
+    const count = numberElement.innerHTML--;
 
 })
 
