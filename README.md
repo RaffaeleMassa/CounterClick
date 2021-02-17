@@ -47,7 +47,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting ##
 
-Per utilizzare il counter cliccare il seguente sito: <a href src="https://raffaelemassa.github.io/CounterClick/">Counter</a>
+Per utilizzare il counter cliccare il seguente sito: <a href src="https://raffaelemassa.github.io/CounterClick/">https://raffaelemassa.github.io/CounterClick/</a>
 
 ## :memo: License ##
 
