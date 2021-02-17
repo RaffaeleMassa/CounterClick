@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -30,24 +29,17 @@
 <br>
 
 ## :dart: About ##
+Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0.
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+Per questo progetto potevo utilizzare soltanto HTML,CSS e JS e alcune librerie esterne se lo desideravo.
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- HTML
+- CSS
+- JS
+
 
 ## :white_check_mark: Requirements ##
 
