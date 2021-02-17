@@ -43,7 +43,7 @@ Per questo progetto potevo utilizzare soltanto HTML,CSS e JS e alcune librerie e
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Nessun requisito richiesto basta cliccare il link e procedere con il counter.
 
 ## :checkered_flag: Starting ##
 
@@ -51,7 +51,6 @@ Per utilizzare il counter cliccare il seguente sito: <a href src="https://raffae
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by <a href="https://github.com/RaffaeleMassa/CounterClick" target="_blank">{{RAFFAELE MASSA}}</a>
