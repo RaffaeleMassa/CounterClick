@@ -29,8 +29,7 @@
 <br>
 
 ## :dart: About ##
-Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0. Il counter doveva essere creato esclusivamente utilizzando codici java
-e senza applicazione come react,vue ecc.
+Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0. Il counter è stato creato utilizzando soltanto codici js.
 
 
 ## :rocket: Technologies ##
@@ -48,28 +47,14 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/counterclick
-
-# Access
-$ cd counterclick
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
+Per utilizzare il counter cliccare il seguente sito: <a href src="https://raffaelemassa.github.io/CounterClick/">Counter</a>
 
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/RaffaeleMassa/CounterClick" target="_blank">{{RAFFAELE MASSA}}</a>
 
 &#xa0;
 
