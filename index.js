@@ -10,18 +10,21 @@ plusElement.addEventListener("click",function(){
     const count = numberElement.innerHTML++;
        if (count === 10) {
         textElement.innerHTML=" YEAH !";
-    } else if ( count === 50){
-        textElement.innerHTML= "You Are Crazy";
+    } else if ( count === 20){
+        textElement.innerHTML= "Continue!!";
+    } else if (count === 50) {
+        textElement.innerHTML= "ARE YOU CRAZY?";
     } else if (count === 100) {
-        textElement.innerHTML= "STOP IT, COME BACK";
+        textElement.innerHTML= "STOP, COME BACK!";
     } else {
-        return textElement;
+         return textElement;
     }
   
 })
 
 minusElement.addEventListener("click", function(e) {
-    const count = numberElement.innerHTML--;
+    for (let i=0; i<100; i++);
+    numberElement.innerHTML--;
 
 })
 
