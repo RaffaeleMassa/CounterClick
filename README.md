@@ -29,7 +29,8 @@
 <br>
 
 ## :dart: About ##
-Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0.
+Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0. Il counter doveva essere creato esclusivamente utilizzando codici java
+e senza applicazione come react,vue ecc.
 
 
 ## :rocket: Technologies ##
