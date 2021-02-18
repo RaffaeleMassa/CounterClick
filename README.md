@@ -29,12 +29,12 @@
 <br>
 
 ## :dart: About ##
-Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0. Il counter è stato creato utilizzando soltanto codici js.
+Progetto di JavaScript Basics sulla superguida di start2impact. In questo progetto ho il compito di creare un counter con 2 pulsanti +/- che al loro click aumenta o diminuisce il numero. Io ho inserito anche un terzo pulsante chiamato reset che riporta il counter a 0. Il counter doveva essere realizzato  utilizzando esclusivamente Javascript.
 
 
 ## :rocket: Technologies ##
 
-Per questo progetto potevo utilizzare soltanto HTML,CSS e JS e alcune librerie esterne se lo desideravo.
+Ho utilizzato per la realizzazione HTML CSS E JS.
 
 - HTML
 - CSS
@@ -42,12 +42,10 @@ Per questo progetto potevo utilizzare soltanto HTML,CSS e JS e alcune librerie e
 
 
 ## :white_check_mark: Requirements ##
-
-Nessun requisito richiesto basta cliccare il link e procedere con il counter.
+Per utilizzare il counter serve soltanto cliccare il link e si aprirà una finestra con il suddetto. Non sono previste ulteriori installazioni o download.
 
 ## :checkered_flag: Starting ##
-
-Per utilizzare il counter cliccare il seguente sito: <a href src="https://raffaelemassa.github.io/CounterClick/">https://raffaelemassa.github.io/CounterClick/</a>
+<a href src="https://raffaelemassa.github.io/CounterClick/">https://raffaelemassa.github.io/CounterClick/</a>
 
 ## :memo: License ##
 
