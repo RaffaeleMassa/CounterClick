@@ -45,7 +45,7 @@ Ho utilizzato per la realizzazione HTML CSS E JS.
 Per utilizzare il counter serve soltanto cliccare il link e si aprirà una finestra con il suddetto. Non sono previste ulteriori installazioni o download.
 
 ## :checkered_flag: Starting ##
-<a href src="https://raffaelemassa.github.io/CounterClick/">https://raffaelemassa.github.io/CounterClick/</a>
+<a href src="https://raffaelemassa.github.io/CounterClick/">https://counterclick.netlify.app//</a>
 
 ## :memo: License ##
 
